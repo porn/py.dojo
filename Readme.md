@@ -9,7 +9,7 @@ Basic project sceleton for Python DOJO
 ## Installation
 
 ```shell
-pipenv install
+make install
 ```
 
 ### Usage
