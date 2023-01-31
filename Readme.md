@@ -3,7 +3,7 @@
 Basic project sceleton for Python DOJO
 
 ## Requirements
-* Python >= 3.9
+* Python >= 3.8
 * Pipenv
 
 ## Installation
